@@ -1,6 +1,6 @@
 # Google Docs Clone
 
-> This project is a clone of the Google Docs app. Which provides a platform for creating and editing documents. The app uses the [Quill](https://quilljs.com/) library to provide a rich text editor, and it is built with React and CSS.
+> This project is a clone of the Google Docs app. Which provides a platform for creating and editing documents. The app uses the [Quill](https://quilljs.com/) library to provide a rich text editor, and it is built with React.Js and CSS.
 
 
 # Built With 
@@ -10,9 +10,6 @@
 - [x] Code Editor: [VS Code](https://code.visualstudio.com/) - A lightweight code editor with great features
 - [x] Deployment: [Netlify](https://www.netlify.com/) - A platform for deploying web applications
 
-# Project Screenshots:
-
-![google-docs-clone](https://github.com/ahzamir/google-docs-clone/assets/96838030/f5c3f5c1-a763-4350-89ba-e5b9b7c821f1)
 
 
 
